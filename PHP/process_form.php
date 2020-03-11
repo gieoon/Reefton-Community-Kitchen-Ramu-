@@ -20,7 +20,7 @@
 <link rel="stylesheet" href="../reffton.site_files/css">
 <link rel="stylesheet" href="../reffton.site_files/font-awesome.min.css">
 <style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif;}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif;text-align:center;}
 </style>
 <style>A {text-decoration: none;} </style>
 </head><body class="w3-light-grey">
@@ -28,5 +28,6 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", Arial, Helvetica, sans-serif;}
 <h2 style="text-align:center;">Message Confirmation</h2>
 
 <p style="text-align:center;">Thank you, your message has been sent successfully to Reefton\'s Hideaway.</p>
+<a href="https://reeftonhideaway.com/" style="outline:none;background-color:#f44336;color:white;padding:12px;line-height:6;">Done</a>
 </body></html>';
 ?>
